@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Anind
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
-- 📫 How to reach me LinkedIN
+🖋 Hi there! I'm a computer science graduate with experience in both front-end and back-end development. My skills include:
+
+💻 Front-end: Vue.js, React, Bootstrap
+💾 Back-end: Node.js, Go, C++
+🗄 Databases: MySQL, PostgreSQL, BigQuery
+🛠 Other tools: Docker, Git, Gitlab, Bitbucket, data structures
+
+🤓 I have a strong foundation in computer science principles and enjoy solving complex problems. In my previous projects, I have utilized my skills to build efficient and user-friendly applications. I have a strong grasp of data structures and system design, and I have experience working with microservices. I have also solved a number of challenging problems on LeetCode.
+
 
 <!---
 Aatom003/Aatom003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
