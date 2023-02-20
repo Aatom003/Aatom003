@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Anything Full stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aatom003](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Aatom003)
 
 - 💬 Ask me about **MERN stack and Data Structures**
 
 - 📫 How to reach me **anindkmr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qz9m71q0IdAiAkIaVNeAWB4N6n7BkpjK/view?usp=share_link](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qz9m71q0IdAiAkIaVNeAWB4N6n7BkpjK/view?usp=share_link)
 
 - ⚡ Fun fact **I am good at google search and finding solutions.**
 
