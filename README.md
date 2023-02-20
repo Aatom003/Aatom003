@@ -6,11 +6,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatom003&label=Profile%20views&color=0e75b6&style=flat" alt="aatom003" /> </p>
 
+### 💻 Front-end
+1. Vue.js
+2. React
+3. Bootstrap
+4. Vuetify
+5. Redux
+
+### 💾 Back-end
+1. Node.js
+2. Go
+
+
+
 
 
 - 🔭 I’m currently working on **Node Js, React, Go lang**
 
-- 🌱 I’m currently learning **Node Js, React, Go lang**
+- 🌱 I’m currently learning **Go lang, Microservices**
 
 - 👯 I’m looking to collaborate on **Anything Full stack**
 
