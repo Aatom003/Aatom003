@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anind</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Problem+solver.+Tech+enthusiast." alt="Typing SVG" /></a>
 
+
+
+
 <p>As a computer science graduate with a passion for problem-solving and application development, I possess expertise in both front-end and back-end development. I have a strong foundation in computer science principles and experience working with microservices, data structures, and system design. Additionally, I am always eager to learn new technologies and enjoy collaborating effectively with tools like Docker, Git, and Bitbucket. My skill set includes experience with Vue.js, React, Node.js, Go, MySQL, PostgreSQL, and more. I am confident in my ability to deliver high-quality results and am excited to contribute to innovative projects. Let's work together to create something amazing!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatom003&label=Profile%20views&color=0e75b6&style=flat" alt="aatom003" /> </p>
@@ -36,4 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aatom003&show_icons=true&locale=en" alt="aatom003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatom003&" alt="aatom003" /></p>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aatom003&" alt="aatom003" /></p> -->
